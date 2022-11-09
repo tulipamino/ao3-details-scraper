@@ -11,5 +11,4 @@ Dependencies:  	- requests
 	where the <URL> is the URL of the ao3 work, and <path_to_csv> is the location of the csv you want to create or add to.
 
 Example: python ao3 https://archiveofourown.org/works/42927006 myReadingList.csv
-
 	- the example command will append the details of the ao3 work to myReadList.csv 
