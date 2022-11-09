@@ -1,4 +1,4 @@
-# ao3-details-scraper-
+# ao3-details-scraper
 
 The script ao3.py appends the details of an ao3 work to a csv. 
 
