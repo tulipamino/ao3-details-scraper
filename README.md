@@ -11,6 +11,6 @@ Dependencies:
 3. Run the program with command: python ao3.py <URL> <path_to_csv>
 	where the <URL> is the URL of the ao3 work, and <path_to_csv> is the location of the csv you want to create or add to.
 
-Example: `python ao3 https://archiveofourown.org/works/42927006 myReadingList.csv`
+Example: `python ao3.py https://archiveofourown.org/works/42927006 myReadingList.csv`
 	
-- The example command will append the details of the ao3 work to myReadList.csv 
+- The example command will append the details of the ao3 work to myReadList.csv located in the same directory
